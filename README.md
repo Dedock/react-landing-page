@@ -1,12 +1,8 @@
-#Test React App
+#React Landing Page
 
 Built with:
 
-`React Redux Material UI`
-
-REST API:
-
-`node.js express`
+`React Redux-Form`
 
 To run dev:
 
@@ -16,4 +12,4 @@ To run dev:
 
 To run production: 
 
-`npm run build`
+`npm run client:build`
